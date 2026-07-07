@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Id": 1,
+    "PublicId": 2,
+    "UnlockedPets": [ 1, 2 ],
+    "CompletedVistas": [],
+    "CompletedSecretVistas": [],
+    "UnlockedTrivias": [ 1 ],
+    "CompletedTrivias": [],
+    "UnlockedArchiveItems": [ 1, 2 ],
+    "UnlockedCosmetics": [ 1, 2 ],
+    "Achivements": [
+      {
+        "Id": 1,
+        "Badge": 1,
+        "AchivementType": 1
+      }
+    ]
+  }
+]

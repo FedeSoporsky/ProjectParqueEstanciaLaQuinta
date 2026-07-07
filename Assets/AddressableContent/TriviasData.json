@@ -1,0 +1,62 @@
+﻿[
+  {
+    "TriviaId": 1,
+    "Title": "Trivia 1",
+    "Questions": [
+      {
+        "Id": 0,
+        "QuestionText": "¿En qué año llega al lugar el hermano Antonio Font?",
+        "Answers": [
+          {
+            "Text": "1895",
+            "IsCorrect": false
+          },
+          {
+            "Text": "1910",
+            "IsCorrect": false
+          },
+          {
+            "Text": "1918",
+            "IsCorrect": true
+          }
+        ]
+      },
+      {
+        "Id": 1,
+        "QuestionText": "¿Cuáles son las especies típicas del bosque serrano presentes en la estancia?",
+        "Answers": [
+          {
+            "Text": "Algarrobos, espinillos, talas y chañar",
+            "IsCorrect": true
+          },
+          {
+            "Text": "Cedros, pinos y cipreses",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Maitenes, lengas y arrayanes",
+            "IsCorrect": false
+          }
+        ]
+      },
+      {
+        "Id": 2,
+        "QuestionText": "¿Cuál de los siguientes personajes ilustres visitó el parque?",
+        "Answers": [
+          {
+            "Text": "Joaquín Sabina",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Ricardo Darín",
+            "IsCorrect": false
+          },
+          {
+            "Text": "Jorge Mario Bergoglio",
+            "IsCorrect": true
+          }
+        ]
+      }
+    ]
+  }
+]

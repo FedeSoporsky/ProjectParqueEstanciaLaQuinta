@@ -1,0 +1,50 @@
+﻿[
+  {
+    "Coordinates": {
+      "Lat": -31.38616,
+      "Lon": -64.24972
+    },
+    "Id": 1,
+    "IsSecret": false
+  },
+  {
+    "Coordinates": {
+      "Lat": -31.3862,
+      "Lon": -64.24977
+    },
+    "Id": 2,
+    "IsSecret": true
+  },
+  {
+    "Coordinates": {
+      "Lat": -31.3863,
+      "Lon": -64.2498
+    },
+    "Id": 3,
+    "IsSecret": false
+  },
+  {
+    "Coordinates": {
+      "Lat": -31.3865,
+      "Lon": -64.2499
+    },
+    "Id": 4,
+    "IsSecret": true
+  },
+  {
+    "Coordinates": {
+      "Lat": -31.3866,
+      "Lon": -64.2495
+    },
+    "Id": 5,
+    "IsSecret": true
+  },
+  {
+    "Coordinates": {
+      "Lat": -31.3863,
+      "Lon": -64.2494
+    },
+    "Id": 6,
+    "IsSecret": false
+  }
+]

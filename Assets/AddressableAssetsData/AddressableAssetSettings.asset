@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 4e07c85ee60e5b24a8bf60f1e8c274b3
+  m_currentHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_OptimizeCatalogSize: 0
+  m_BuildRemoteCatalog: 1
+  m_BundleLocalCatalog: 0
+  m_CatalogRequestsTimeout: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_IgnoreUnsupportedFilesInBuild: 0
+  m_UniqueBundleIds: 0
+  m_NonRecursiveBuilding: 1
+  m_CCDEnabled: 0
+  m_maxConcurrentWebRequests: 500
+  m_ContiguousBundles: 1
+  m_StripUnityVersionFromBundleBuild: 0
+  m_DisableVisibleSubAssetRepresentations: 0
+  m_ShaderBundleNaming: 0
+  m_ShaderBundleCustomNaming: 
+  m_MonoScriptBundleNaming: 0
+  m_CheckForContentUpdateRestrictionsOption: 0
+  m_MonoScriptBundleCustomNaming: 
+  m_RemoteCatalogBuildPath:
+    m_Id: 47213a3399e82fd48841d8cd7c5b6ef8
+  m_RemoteCatalogLoadPath:
+    m_Id: b6ad834f89805ec4792b660cfb06de76
+  m_ContentStateBuildPathProfileVariableName: <default settings path>
+  m_CustomContentStateBuildPath: 
+  m_ContentStateBuildPath: 
+  m_BuildAddressablesWithPlayerBuild: 2
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 9c408e41b32d8cc439f80edbdf9e918e, type: 2}
+  - {fileID: 11400000, guid: 811e2525318bbab4780767acbe490fc6, type: 2}
+  - {fileID: 11400000, guid: 54f7595b6c9d4d24ca1923536f9e9101, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 3e63e05c226994845972df4770cf2881
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: e6a52b7958a1b734a800705af0607868
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 659f64bd214e42743888c40ea63d7bc0
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: fc4c529cb086afa4490b9be8109bbbc1
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 47213a3399e82fd48841d8cd7c5b6ef8
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: b6ad834f89805ec4792b660cfb06de76
+        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+    - m_InheritedParent: 
+      m_Id: b5106835d8b59ba46ae15a1d9c18bf32
+      m_ProfileName: GoogleCloudStorage
+      m_Values:
+      - m_Id: e6a52b7958a1b734a800705af0607868
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 659f64bd214e42743888c40ea63d7bc0
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: fc4c529cb086afa4490b9be8109bbbc1
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 47213a3399e82fd48841d8cd7c5b6ef8
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: b6ad834f89805ec4792b660cfb06de76
+        m_Value: 
+    m_ProfileEntryNames:
+    - m_Id: e6a52b7958a1b734a800705af0607868
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 659f64bd214e42743888c40ea63d7bc0
+      m_Name: Local.BuildPath
+      m_InlineUsage: 0
+    - m_Id: fc4c529cb086afa4490b9be8109bbbc1
+      m_Name: Local.LoadPath
+      m_InlineUsage: 0
+    - m_Id: 47213a3399e82fd48841d8cd7c5b6ef8
+      m_Name: Remote.BuildPath
+      m_InlineUsage: 0
+    - m_Id: b6ad834f89805ec4792b660cfb06de76
+      m_Name: Remote.LoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - VistasData
+    - VistaPositions
+    - TriviaPositions
+    - PlayersData
+    - VistaMainPictures1
+    - VistaMainPictures2
+    - VistaMainPictures3
+    - VistaMainPictures4
+    - VistaMainPictures5
+    - VistaMainPictures6
+    - VistaImageContentMiniatures1
+    - VistaImageContentMiniatures2
+    - VistaImageContentMiniatures3
+    - VistaImageContentMiniatures4
+    - VistaImageContentMiniatures5
+    - VistaVideoContentMiniatures1
+    - VistaVideoContentMiniatures2
+    - VistaVideoContentMiniatures3
+    - VistaVideoContentMiniatures4
+    - VistaVideoContentMiniatures5
+    - VistaMediaContentFullSize1
+    - VistaMediaContentFullSize2
+    - VistaMediaContentFullSize3
+    - VistaMediaContentFullSize4
+    - VistaMediaContentFullSize5
+    - TriviasData
+    - VistaMainPictures1Test
+    - VistaImageContentMiniatures6
+    - VistaImageContentMiniatures7
+    - VistaImageContentMiniatures8
+    - VistaImageContentMiniatures9
+    - VistaImageContentMiniatures10
+    - VistaImageContentMiniatures11
+    - VistaImageContentMiniatures12
+    - VistaImageContentMiniatures13
+    - VistaImageContentMiniatures14
+    - VistaImageContentMiniatures15
+    - VistaImageContentMiniatures16
+    - VistaImageContentMiniatures17
+    - VistaImageContentMiniatures18
+    - VistaImageContentMiniatures19
+    - VistaImageContentMiniatures20
+    - VistaImageContentMiniatures21
+    - VistaMediaContentFullSize6
+    - VistaMediaContentFullSize7
+    - VistaMediaContentFullSize8
+    - VistaMediaContentFullSize9
+    - VistaMediaContentFullSize10
+    - VistaMediaContentFullSize11
+    - VistaMediaContentFullSize12
+    - VistaMediaContentFullSize13
+    - VistaMediaContentFullSize14
+    - VistaMediaContentFullSize15
+    - VistaMediaContentFullSize16
+    - VistaMediaContentFullSize17
+    - VistaMediaContentFullSize18
+    - VistaMediaContentFullSize19
+    - VistaMediaContentFullSize20
+    - VistaMediaContentFullSize21
+    - RotatingItems1
+    - RotatingItems
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 1edc25e1b5fdf0f45a1a1c063533990b, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: bd7c31e65af78c748a3a9e4b64876077, type: 2}
+  - {fileID: 11400000, guid: 29042d2584a821448878f0352bc790da, type: 2}
+  - {fileID: 11400000, guid: 8532e613cb093f647b7e364db1d090a1, type: 2}
+  - {fileID: 11400000, guid: 80c62b4f290fb0a489f6b4bb6091c046, type: 2}
+  m_ActiveProfileId: b5106835d8b59ba46ae15a1d9c18bf32
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []
+    m_PingTimeoutInMilliseconds: 5000

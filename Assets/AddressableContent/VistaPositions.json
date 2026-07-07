@@ -1,0 +1,42 @@
+﻿[
+  {
+    "Coordinates": {
+      "Lat": -31.421868,
+      "Lon": -64.512271
+    },
+    "Id": 1, //Museo pueblos nativos.
+    "IsSecret": false
+  },
+  {
+    "Coordinates": {
+      "Lat": -31.421536,
+      "Lon": -64.512488
+    },
+    "Id": 2, //Museo de Carlos Paz.
+    "IsSecret": true
+  },
+  {
+    "Coordinates": {
+      "Lat": -31.42225,
+      "Lon": -64.51224
+    },
+    "Id": 3, //Yacimiento arqueológico.
+    "IsSecret": false
+  },
+  {
+    "Coordinates": {
+      "Lat": -31.423355,
+      "Lon": -64.512649
+    },
+    "Id": 4, //Bosque de la poesía.
+    "IsSecret": true
+  },
+  {
+    "Coordinates": {
+      "Lat": -31.422689,
+      "Lon": -64.512244
+    },
+    "Id": 5, //Vieja cantera.
+    "IsSecret": false
+  }
+]

@@ -1,0 +1,94 @@
+﻿{
+  "vistas": [ //deprecado?
+    {
+      "Coordinates": {
+        "Lat": -31.38616,
+        "Lon": -64.24972
+      },
+      "Created": false,
+      "Id": 1,
+      "ImageRoute": "TestImageResource",
+      "Info": {
+        "Title": "Test Vista 1",
+        "Subtitle": "non-connection test vistas",
+        "Description": ""
+      }
+    },
+    {
+      "Coordinates": {
+      },
+      "Created": false,
+      "Id": 2,
+      "ImageRoute": "CanteroDePiedra",
+      "Info": {
+        "Title": "Cantero de Piedra",
+        "Subtitle": "non-connection test vistas",
+        "Description": ""
+      },
+      "ExtraContentItems": [
+        {
+          "Id": 1,
+          "ImageRoute": "RanaVerde"
+        },
+        {
+          "Id": 2,
+          "ImageRoute": "Tero"
+        },
+        {
+          "Id": 3,
+          "ImageRoute": "PalomaEnRama"
+        },
+        {
+          "Id": 4,
+          "ImageRoute": "OsosInfografia"
+        },
+        {
+          "Id": 5,
+          "ImageRoute": "PuntasDeFlecha"
+        }
+      ]
+    },
+    {
+      "Coordinates": {
+        "Lat": -31.42225,
+        "Lon": -64.51224
+      },
+      "Created": false,
+      "Id": 3,
+      "ImageRoute": "FrutaAmarilla",
+      "Info": {
+        "Title": "Fruta Amarilla",
+        "Subtitle": "non-connection test vistas",
+        "Description": ""
+      }
+    },
+    {
+      "Coordinates": {
+        "Lat": -31.42258, 
+        "Lon": -64.51225
+      },
+      "Created": false,
+      "Id": 4,
+      "ImageRoute": "AgaveJuntoAlArbol",
+      "Info": {
+        "Title": "Agave Junto Al Arbol",
+        "Subtitle": "non-connection test vistas",
+        "Description": ""
+      }
+    },
+    {
+      "Coordinates": {
+        "Lat": -31.42327, 
+        "Lon": -64.51265
+      },
+      "Created": false,
+      "Id": 5,
+      "ImageRoute": "LavandaYBebedero",
+      "Info": {
+        "Title": "Lavanda y Bebedero",
+        "Subtitle": "non-connection test vistas",
+        "Description": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+﻿[
+  {
+    "VistaId": 1,
+    "Title": "Numba Charava",
+    "Subtitle": "Museo Arqueológico",
+    "ImageCollection": [ 1, 2, 3, 4, 5 ],
+    "VideoCollection": [],
+    "Category": "Vistas",
+    "Description": "",
+    "BriefDescription": "Conserva, investiga, expone, educa y difunde la cultura material e intangible de los pueblos originarios de las Sierras de Córdoba. Posee una exclusiva colección de piezas arqueológicas.",
+    "BackgroundImage": 1
+  },
+  {
+    "VistaId": 2,
+    "Title": "Sala Font",
+    "Subtitle": "La historia de Villa Carlos Paz",
+    "ImageCollection": [ 6, 7, 8, 9, 10 ],
+    "VideoCollection": [],
+    "Category": "Vistas",
+    "Description": "",
+    "BriefDescription": "Recorrido visual desde su nacimiento como estancia, su fundación como pueblo en 1913 con el primer loteo de tierras de don Carlos Paz y su proceso de transformación hacia la ciudad turística.",
+    "BackgroundImage": 2
+  },
+  {
+    "VistaId": 3,
+    "Title": "Sitio Arqueológico",
+    "Subtitle": "Comunidades nativas",
+    "ImageCollection": [ 11, 12],
+    "VideoCollection": [],
+    "Category": "Vistas",
+    "Description": "",
+    "BriefDescription": "Presencia de morteros y conanas realizados en roca granítica por las comunidades que habitaron el valle. Dichos morteros estaban destinados a la molienda de granos.",
+    "BackgroundImage": 3
+  },
+  {
+    "VistaId": 4,
+    "Title": "Cantera",
+    "Subtitle": "Orígenes como estancia",
+    "ImageCollection": [ 13, 14, 15, 16],
+    "VideoCollection": [],
+    "Category": "Vistas",
+    "Description": "",
+    "BriefDescription": "Una de las tres canteras de la antigua estancia desde donde se extraía la roca granítica para la construcción de los edificios. Fue utilizada a comienzos del siglo XX por picapedreros italianos.",
+    "BackgroundImage": 4
+  },
+  {
+    "VistaId": 5,
+    "Title": "Bosque de la Poesía",
+    "Subtitle": "",
+    "ImageCollection": [ 17, 18, 19, 20, 21 ],
+    "VideoCollection": [],
+    "Category": "Vistas",
+    "Description": "",
+    "BriefDescription": "Sendero de apreciación de especies de flora nativa donde previamente también podían leerse poemas escritos por artistas de la ciudad.",
+    "BackgroundImage": 5
+  },
+  {
+    "VistaId": 6,
+    "Title": "Test 6",
+    "Subtitle": "",
+    "ImageCollection": [ 1, 2, 3, 4, 5 ],
+    "VideoCollection": [],
+    "Category": "Vistas",
+    "Description": "Test",
+    "BriefDescription": "Test",
+    "BackgroundImage": 5
+  },
+  {
+    "VistaId": 7,
+    "Title": "Test 7",
+    "Subtitle": "",
+    "ImageCollection": [ 1, 2, 3, 4, 5 ],
+    "VideoCollection": [],
+    "Category": "Vistas",
+    "Description": "Test",
+    "BriefDescription": "",
+    "BackgroundImage": 5
+  }
+]
