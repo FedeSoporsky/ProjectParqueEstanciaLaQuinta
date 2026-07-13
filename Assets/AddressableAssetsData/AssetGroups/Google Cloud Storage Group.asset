@@ -17,16 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 9b48a5805a3d3ae4cbad431ce0212f17
   m_SerializeEntries:
-  - m_GUID: 7a4133858a7eb2b4dbef16a5c2832cb4
-    m_Address: Assets/AddressableContent/VistaImageContentMiniatures/OsosInfografia.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3495ff5a4af86774fbe2898044ef5c89
-    m_Address: Assets/AdressableContent/Vistas.json
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8bd590d41ec1d544da396b5b7fcedc01
     m_Address: Assets/AdressableContent/vistasData.json
     m_ReadOnly: 0
@@ -38,87 +28,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - VistaVideoContentMiniatures3
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 90fac2d4feee22d4ba5cd23f83dfa03c
-    m_Address: Assets/AddressableContent/VistaImageContentMiniatures/PalomaEnRama.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 154260e010b39674cba0ca729986a161
-    m_Address: Assets/AddressableContent/VistaImageContentMiniatures/PuntasDeFlecha.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 70d0c75f665a2ed4db98021addae64ce
-    m_Address: Assets/AddressableContent/VistaImageContentMiniatures/RanaVerde.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5a592709c253e434597ec6de59da9a43
-    m_Address: Assets/AddressableContent/VistaImageContentMiniatures/Tero.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 616deeeb4be68464a85a96f0479a3a5c
-    m_Address: Assets/AddressableContent/VistaMediaContentFullSize/OsosInfografia.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4b7de72edc82b674887dc6003ab9f5cb
-    m_Address: Assets/AddressableContent/VistaMediaContentFullSize/PuntasDeFlecha.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 711d873943d84de42ab1d9362521eb2e
-    m_Address: Assets/AddressableContent/VistaMediaContentFullSize/RanaVerde.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7ef9e3bc3dacafc4caeb29cce9cb8703
-    m_Address: Assets/AddressableContent/VistaMediaContentFullSize/Tero.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b04ca5b6754f05240963ade190cabe30
-    m_Address: Assets/AddressableContent/VistaMainPictures/1.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - VistaMainPictures1Test
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 096ada22924afbc4cabecb2edc02e1b8
-    m_Address: Assets/AddressableContent/VistaMainPictures/AgaveJuntoAlArbol.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a662612c1449b19488bac26a59c395fb
-    m_Address: Assets/AddressableContent/VistaMainPictures/ArbolDesconocido.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 78f801f16d9d0ea468030c3e51fc3438
-    m_Address: Assets/AddressableContent/VistaMainPictures/CanteroDePiedra.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b14a2893b231fa546b99bf8f6a47a5be
-    m_Address: Assets/AddressableContent/VistaMainPictures/FrutaAmarilla.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 2f4552996ca92df4594bc19d9d5a6d74
-    m_Address: Assets/AddressableContent/VistaMainPictures/LavandaYBebedero.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1a91af724faaf354ca511299c39eb115
-    m_Address: Assets/AddressableContent/VistaMainPictures/TestImageResource.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 62e1754f04ed2294ab5af98bc7d1424e
-    m_Address: Assets/AddressableContent/VistaMainPictures/2.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a61873d591481cf4f89b0534a762975a
     m_Address: Assets/AddressableContent/VistaPositions.json
@@ -137,26 +46,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - PlayersData
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 71ef18c875cb9be4b8946dfac101d92c
-    m_Address: Assets/AddressableContent/VistaMainPictures/3.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7408e51c9b783ed4d9ffff58e80f4f02
-    m_Address: Assets/AddressableContent/VistaMainPictures/4.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 757bc399df1e07749a6deb6623b358f2
-    m_Address: Assets/AddressableContent/VistaMainPictures/5.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d2ce5088d78f74546acaaa69387520b8
-    m_Address: Assets/AddressableContent/VistaMainPictures/6.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 62d6aa90edfc9f64a8f4544f80e5f354
     m_Address: Assets/AddressableContent/VistaVideoContentMiniatures/teroVideoMiniature.jpg
@@ -181,11 +70,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - VistaVideoContentMiniatures1
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ede6b75b70ca9c54295240daa7a2e1c3
-    m_Address: Assets/AddressableContent/VistaMediaContentFullSize/PalomaPta.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2c3ca3b996899904ba17773a5696c866
     m_Address: Assets/AddressableContent/TriviasData.json
