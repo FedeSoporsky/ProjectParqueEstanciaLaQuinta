@@ -32,6 +32,8 @@ A mobile Unity prototype that uses device GPS to explore Parque Estancia La Quin
 - Prototype focused on the core gameplay loop; not all planned features implemented
 - Some content uses placeholder assets
 - No extensive performance profiling was done for large data sets
+- Nowadays, I'd use 3D assets and a camera setup similar to Pokemon Go because I discovered too late in the development that the natural rotation of the real person in the park would affect how the handcrafted map is appreciated (producing a really awkward rotated look)
+- Today I'd make use of SO for almost every piece of configuration and dependencies setup.
 
 ## Contact
 - Federico Grandon Soporsky — federicosoporsky@gmail.com
